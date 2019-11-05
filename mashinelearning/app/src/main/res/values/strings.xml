@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mashine learning</string>
+    <string name="detect_text_from_image">detect text from image</string>
+    <string name="read_bar_code">read bar code</string>
+    <string name="detect_faces">detect faces</string>
+    <string name="detect_and_lable_things">detect and lable things</string>
+    <string name="todo">TODO</string>
+    <string name="snap">snap</string>
+    <string name="detect">detect</string>
+    <string name="detected_text">detected text</string>
+
+    <string name="information">information</string>
+    <string name="detected_infromation_displayed_here">detected infromation displayed here</string>
+    <string name="detect_face_fetures">detect face fetures</string>
+    <string name="detect_landmark">detect landmark</string>
+</resources>
